@@ -1,2 +1,2 @@
 # UBC-CPEN-522
-## This folder contains codeing assignments of this course.
+## This folder contains coding assignments of this course.
